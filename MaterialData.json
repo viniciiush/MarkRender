@@ -1,0 +1,19 @@
+{
+    "MaterialVariation": 
+    {
+        "Branco Diamante": 
+        {
+            "Albedo": "branco_diamante_a",
+            "Metallic": "branco_diamante_m",
+            "Roughness": "branco_diamante_r",
+            "Normal": "branco_diamante_n"
+        },
+        "Cinza Sagrado": 
+        {
+            "Albedo": "cinza_sagrado_a",
+            "Metallic": "cinza_sagrado_m",
+            "Roughness": "cinza_sagrado_r",
+            "Normal": "cinza_sagrado_n"
+        }
+    }
+}
