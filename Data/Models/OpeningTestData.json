@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": "door_01",
+      "name": "Two Panel Arched",
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Thumb1.png",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/door_01.glb",
+      "minWidth": 0.6,
+      "maxWidth": 1.2
+    },
+    {
+      "id": "door_02",
+      "name": "Two Panel Smooth Arched",
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Thumb2.png",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/door_02.glb",
+      "minWidth": 0.6,
+      "maxWidth": 1.2
+    },
+    {
+      "id": "window_01",
+      "name": "Two Panel Arched",
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Thumb3.png",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/window_01.glb",
+      "minWidth": 0.8,
+      "maxWidth": 1.6
+    },
+    {
+      "id": "window_02",
+      "name": "Two Panel Smooth Arched",
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Thumb4.png",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/window_02.glb",
+      "minWidth": 0.8,
+      "maxWidth": 1.6
+    }
+  ]
+}
