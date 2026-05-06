@@ -41,7 +41,7 @@
       "name": "Two Panel Arched",
       "type": "window",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Thumb5.png",
-      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/window_01.glb",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/window_03.glb",
       "minWidth": 0.8,
       "maxWidth": 1.6
     },
@@ -50,7 +50,7 @@
       "name": "Two Panel Smooth Arched",
       "type": "window",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Thumb6.png",
-      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/window_02.glb",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/window_04.glb",
       "minWidth": 0.8,
       "maxWidth": 1.6
     }
