@@ -35,6 +35,24 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/window_02.glb",
       "minWidth": 0.8,
       "maxWidth": 1.6
+    },
+    {
+      "id": "window_03",
+      "name": "Two Panel Arched",
+      "type": "window",
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Thumb5.png",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/window_01.glb",
+      "minWidth": 0.8,
+      "maxWidth": 1.6
+    },
+    {
+      "id": "window_04",
+      "name": "Two Panel Smooth Arched",
+      "type": "window",
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Thumb6.png",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/window_02.glb",
+      "minWidth": 0.8,
+      "maxWidth": 1.6
     }
   ]
 }
