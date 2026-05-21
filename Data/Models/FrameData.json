@@ -9,7 +9,7 @@
       "minWidth": 0.3,
       "maxWidth": 0.6,
       "handles": ["WHandle_01"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "window_02",
@@ -20,7 +20,7 @@
       "minWidth": 0.4,
       "maxWidth": 1.0,
       "handles": ["WHandle_01"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "window_03",
@@ -31,7 +31,7 @@
       "minWidth": 1.0,
       "maxWidth": 1.6,
       "handles": ["WHandle_01"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "window_04",
@@ -42,7 +42,7 @@
       "minWidth": 1.6,
       "maxWidth": 2.6,
       "handles": ["WHandle_01"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "window_05",
@@ -53,7 +53,7 @@
       "minWidth": 1.0,
       "maxWidth": 2.0,
       "handles": ["WHandle_01"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "window_06",
@@ -64,7 +64,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["WHandle_01"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "window_07",
@@ -75,7 +75,7 @@
       "minWidth": 0.5,
       "maxWidth": 1.0,
       "handles": ["WHandle_01"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "window_08",
@@ -84,9 +84,9 @@
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/Icons/window_08.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_08.glb",
       "minWidth": 0.5,
-      "maxWidth": 1.0,
+      "maxWidth": 3.0,
       "handles": ["WHandle_01"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "door_01",
@@ -97,7 +97,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "door_02",
@@ -108,7 +108,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "door_03",
@@ -119,7 +119,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "door_04",
@@ -130,7 +130,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "door_05",
@@ -141,7 +141,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "door_06",
@@ -152,7 +152,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "door_07",
@@ -163,7 +163,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     },
     {
       "id": "door_08",
@@ -174,7 +174,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
-      "colors": ["branco", "preto"]
+      "colors": ["Branco", "Preto"]
     }
   ]
 }

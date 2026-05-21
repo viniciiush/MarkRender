@@ -1,0 +1,59 @@
+{
+  "items": [
+      {
+      "id": "color_01",
+      "name": "Branco",
+      "type": "color",
+      "colorHex": "#FFFFFF",
+      "metallic": 0.5,
+      "roughness": 1.0,
+      "colorImageUrl": "",
+      "metallicImageUrl": "",
+      "roughnessImageUrl": ""
+    },
+    {
+      "id": "color_02",
+      "name": "Preto",
+      "type": "color",
+      "colorHex": "#000000",
+      "metallic": 0.5,
+      "roughness": 1.0,
+      "colorImageUrl": "",
+      "metallicImageUrl": "",
+      "roughnessImageUrl": ""
+    },
+    {
+      "id": "color_03",
+      "name": "Grafite",
+      "type": "color",
+      "colorHex": "#4B4B4B",
+      "metallic": 0.7,
+      "roughness": 0.3,
+      "colorImageUrl": "",
+      "metallicImageUrl": "",
+      "roughnessImageUrl": ""
+    },
+    {
+      "id": "color_04",
+      "name": "Cromado",
+      "type": "color",
+      "colorHex": "#C0C0C0",
+      "metallic": 1.0,
+      "roughness": 0.1,
+      "colorImageUrl": "",
+      "metallicImageUrl": "",
+      "roughnessImageUrl": ""
+    },
+    {
+      "id": "color_05",
+      "name": "Dourado",
+      "type": "color",
+      "colorHex": "#FFD700",
+      "metallic": 1.0,
+      "roughness": 0.1,
+      "colorImageUrl": "",
+      "metallicImageUrl": "",
+      "roughnessImageUrl": ""
+    }
+  ]
+}
