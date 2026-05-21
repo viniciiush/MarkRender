@@ -6,8 +6,8 @@
       "type": "window",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/Icons/window_01.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_01.glb",
-      "minWidth": 0.8,
-      "maxWidth": 1.6,
+      "minWidth": 0.3,
+      "maxWidth": 0.6,
       "handles": ["WHandle_01"],
       "colors": ["branco", "preto"]
     },
@@ -17,8 +17,8 @@
       "type": "window",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/Icons/window_02.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_02.glb",
-      "minWidth": 0.8,
-      "maxWidth": 1.6,
+      "minWidth": 0.4,
+      "maxWidth": 1.0,
       "handles": ["WHandle_01"],
       "colors": ["branco", "preto"]
     },
@@ -28,7 +28,7 @@
       "type": "window",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/Icons/window_03.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_03.glb",
-      "minWidth": 0.8,
+      "minWidth": 1.0,
       "maxWidth": 1.6,
       "handles": ["WHandle_01"],
       "colors": ["branco", "preto"]
@@ -39,8 +39,8 @@
       "type": "window",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/Icons/window_04.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_04.glb",
-      "minWidth": 0.5,
-      "maxWidth": 0.8,
+      "minWidth": 1.6,
+      "maxWidth": 2.6,
       "handles": ["WHandle_01"],
       "colors": ["branco", "preto"]
     },
@@ -50,8 +50,8 @@
       "type": "window",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/Icons/window_05.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_05.glb",
-      "minWidth": 0.8,
-      "maxWidth": 1.6,
+      "minWidth": 1.0,
+      "maxWidth": 2.0,
       "handles": ["WHandle_01"],
       "colors": ["branco", "preto"]
     },
@@ -72,8 +72,8 @@
       "type": "window",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/Icons/window_07.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_07.glb",
-      "minWidth": 0.8,
-      "maxWidth": 1.6,
+      "minWidth": 0.5,
+      "maxWidth": 1.0,
       "handles": ["WHandle_01"],
       "colors": ["branco", "preto"]
     },
@@ -84,7 +84,7 @@
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/Icons/window_08.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_08.glb",
       "minWidth": 0.5,
-      "maxWidth": 0.8,
+      "maxWidth": 1.0,
       "handles": ["WHandle_01"],
       "colors": ["branco", "preto"]
     },
