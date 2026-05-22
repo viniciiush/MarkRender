@@ -5,33 +5,30 @@
       "name": "Branco",
       "type": "color",
       "colorHex": "#FFFFFF",
-      "metallic": 0.5,
-      "roughness": 1.0,
+      "metallic": 0.0,
+      "smoothness": 0.0,
       "colorImageUrl": "",
-      "metallicImageUrl": "",
-      "roughnessImageUrl": ""
+      "metallicGlossMapImageUrl": ""
     },
     {
       "id": "color_02",
       "name": "Preto",
       "type": "color",
       "colorHex": "#000000",
-      "metallic": 0.5,
-      "roughness": 1.0,
+      "metallic": 0.0,
+      "smoothness": 0.0,
       "colorImageUrl": "",
-      "metallicImageUrl": "",
-      "roughnessImageUrl": ""
+      "metallicGlossMapImageUrl": ""
     },
     {
       "id": "color_03",
       "name": "Grafite",
       "type": "color",
       "colorHex": "#4B4B4B",
-      "metallic": 0.7,
-      "roughness": 0.3,
+      "metallic": 0.0,
+      "smoothness": 0.0,
       "colorImageUrl": "",
-      "metallicImageUrl": "",
-      "roughnessImageUrl": ""
+      "metallicGlossMapImageUrl": ""
     },
     {
       "id": "color_04",
@@ -39,10 +36,9 @@
       "type": "color",
       "colorHex": "#C0C0C0",
       "metallic": 1.0,
-      "roughness": 0.1,
+      "smoothness": 0.9,
       "colorImageUrl": "",
-      "metallicImageUrl": "",
-      "roughnessImageUrl": ""
+      "metallicGlossMapImageUrl": ""
     },
     {
       "id": "color_05",
@@ -50,10 +46,9 @@
       "type": "color",
       "colorHex": "#FFD700",
       "metallic": 1.0,
-      "roughness": 0.1,
+      "smoothness": 0.9,
       "colorImageUrl": "",
-      "metallicImageUrl": "",
-      "roughnessImageUrl": ""
+      "metallicGlossMapImageUrl": ""
     }
   ]
 }
