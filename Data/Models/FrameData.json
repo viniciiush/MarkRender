@@ -8,7 +8,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_01.glb",
       "minWidth": 0.3,
       "maxWidth": 0.6,
-      "handles": ["WHandle_01"],
+      "handles": [""],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -19,7 +19,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_02.glb",
       "minWidth": 0.4,
       "maxWidth": 1.0,
-      "handles": ["WHandle_01"],
+      "handles": [""],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -30,7 +30,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_03.glb",
       "minWidth": 1.0,
       "maxWidth": 1.6,
-      "handles": ["WHandle_01"],
+      "handles": [""],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -41,7 +41,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_04.glb",
       "minWidth": 1.6,
       "maxWidth": 2.6,
-      "handles": ["WHandle_01"],
+      "handles": [""],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -52,7 +52,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_05.glb",
       "minWidth": 1.0,
       "maxWidth": 2.0,
-      "handles": ["WHandle_01"],
+      "handles": [""],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -63,7 +63,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_06.glb",
       "minWidth": 0.8,
       "maxWidth": 1.6,
-      "handles": ["WHandle_01"],
+      "handles": [""],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -74,7 +74,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_07.glb",
       "minWidth": 0.5,
       "maxWidth": 1.0,
-      "handles": ["WHandle_01"],
+      "handles": [""],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -85,7 +85,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Windows/Frame/GLB/window_08.glb",
       "minWidth": 0.5,
       "maxWidth": 3.0,
-      "handles": ["WHandle_01"],
+      "handles": [""],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -96,7 +96,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Frame/GLB/door_01.glb",
       "minWidth": 0.8,
       "maxWidth": 1.6,
-      "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
+      "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -107,7 +107,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Frame/GLB/door_02.glb",
       "minWidth": 0.8,
       "maxWidth": 1.6,
-      "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
+      "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -118,7 +118,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Frame/GLB/door_03.glb",
       "minWidth": 0.8,
       "maxWidth": 1.6,
-      "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
+      "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -129,7 +129,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Frame/GLB/door_04.glb",
       "minWidth": 0.8,
       "maxWidth": 1.6,
-      "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
+      "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -140,7 +140,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Frame/GLB/door_05.glb",
       "minWidth": 0.8,
       "maxWidth": 1.6,
-      "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
+      "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -151,7 +151,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Frame/GLB/door_06.glb",
       "minWidth": 0.8,
       "maxWidth": 1.6,
-      "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
+      "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -162,7 +162,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Frame/GLB/door_07.glb",
       "minWidth": 0.8,
       "maxWidth": 1.6,
-      "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
+      "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     },
     {
@@ -173,7 +173,7 @@
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Frame/GLB/door_08.glb",
       "minWidth": 0.8,
       "maxWidth": 1.6,
-      "handles": ["DHandle_01", "DHandle_02", "DHandle_03", "DHandle_04", "DHandle_05", "DHandle_06"],
+      "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
       "colors": ["Branco", "Preto", "Grafite", "Cromado", "Dourado"]
     }
   ]
