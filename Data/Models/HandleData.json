@@ -5,7 +5,7 @@
       "name": "Alavanca Oval",
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_01.png",
-      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/handle_01.glb",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_01.glb",
       "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
@@ -13,7 +13,7 @@
       "name": "Alavanca Reta",
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_02.png",
-      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/handle_02.glb",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_02.glb",
       "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Alavanca Curva",
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_03.png",
-      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/handle_03.glb",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_03.glb",
       "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
@@ -29,7 +29,7 @@
       "name": "Alavanca c/ Placa",
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_04.png",
-      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/handle_04.glb",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_04.glb",
       "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
@@ -37,7 +37,7 @@
       "name": "Eletronico",
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_05.png",
-      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/handle_05.glb",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_05.glb",
       "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
@@ -45,7 +45,7 @@
       "name": "Puxador Cavado",
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_06.png",
-      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/handle_06.glb",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_06.glb",
       "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
@@ -53,7 +53,7 @@
       "name": "Puxador Barra",
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_07.png",
-      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/handle_07.glb",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_07.glb",
       "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
@@ -61,7 +61,7 @@
       "name": "Puxador Barra Retangular",
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_08.png",
-      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/handle_08.glb",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_08.glb",
       "colors": ["Grafite", "Cromado", "Dourado"]
     }
   ]
