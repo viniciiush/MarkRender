@@ -1,84 +1,76 @@
 {
   "items": [
-        {
-      "id": "WHandle_01",
-      "name": "Default",
-      "type": "handle",
-      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Thumb1.png",
-      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/door_01.glb",
-      "colors": ["grafite", "cromado", "dourado"]
-    },
     {
-      "id": "DHandle_01",
+      "id": "handle_01",
       "name": "Alavanca Reta",
-      "type": "handle",
+      "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Thumb1.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/door_01.glb",
-      "colors": ["grafite", "cromado", "dourado"]
+      "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
-      "id": "DHandle_02",
+      "id": "handle_02",
       "name": "Alavanca Curva",
-      "type": "handle",
+      "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Thumb2.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/door_02.glb",
-      "colors": ["grafite", "cromado", "dourado"]
+      "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
-      "id": "DHandle_03",
+      "id": "handle_03",
       "name": "Alavanca Com Placa",
-      "type": "handle",
+      "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Thumb3.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/door_03.glb",
-      "colors": ["grafite", "cromado", "dourado"]
+      "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
-      "id": "DHandle_04",
+      "id": "handle_04",
       "name": "Alavanca Oval",
-      "type": "handle",
+      "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Thumb4.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/door_04.glb",
-      "colors": ["grafite", "cromado", "dourado"]
+      "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
-      "id": "DHandle_05",
+      "id": "handle_05",
       "name": "Concha",
-      "type": "handle",
+      "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Thumb5.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/door_05.glb",
-      "colors": ["grafite", "cromado", "dourado"]
+      "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
-      "id": "DHandle_06",
+      "id": "handle_06",
       "name": "Eletronico",
-      "type": "handle",
+      "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Thumb6.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/door_06.glb",
-      "colors": ["grafite", "cromado", "dourado"]
+      "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
-      "id": "DHandle_06",
+      "id": "handle_06",
       "name": "Eletronico",
-      "type": "handle",
+      "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Thumb6.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/door_06.glb",
-      "colors": ["grafite", "cromado", "dourado"]
+      "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
-      "id": "DHandle_06",
+      "id": "handle_06",
       "name": "Puxador Retangular",
-      "type": "handle",
+      "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Thumb6.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/door_06.glb",
-      "colors": ["grafite", "cromado", "dourado"]
+      "colors": ["Grafite", "Cromado", "Dourado"]
     },
     {
-      "id": "DHandle_06",
+      "id": "handle_06",
       "name": "Puxador Barra",
-      "type": "handle",
+      "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Thumb6.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/door_06.glb",
-      "colors": ["grafite", "cromado", "dourado"]
+      "colors": ["Grafite", "Cromado", "Dourado"]
     }
   ]
 }
