@@ -6,7 +6,7 @@
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_01.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_01.glb",
-      "colors": ["Grafite", "Cromado", "Dourado"]
+      "colors": ["Cromado", "Rose Fosco", "Dourado Fosco", "Preto"]
     },
     {
       "id": "handle_02",
@@ -14,7 +14,7 @@
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_02.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_02.glb",
-      "colors": ["Grafite", "Cromado", "Dourado"]
+      "colors": ["Cromado", "Rose Fosco", "Dourado Fosco", "Preto"]
     },
     {
       "id": "handle_03",
@@ -22,7 +22,7 @@
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_03.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_03.glb",
-      "colors": ["Grafite", "Cromado", "Dourado"]
+      "colors": ["Cromado", "Rose Fosco", "Dourado Fosco", "Preto"]
     },
     {
       "id": "handle_04",
@@ -30,7 +30,7 @@
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_04.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_04.glb",
-      "colors": ["Grafite", "Cromado", "Dourado"]
+      "colors": ["Cromado", "Rose Fosco", "Dourado Fosco", "Preto"]
     },
     {
       "id": "handle_05",
@@ -38,7 +38,7 @@
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_05.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_05.glb",
-      "colors": ["Grafite", "Cromado", "Dourado"]
+      "colors": ["Cromado", "Rose Fosco", "Dourado Fosco", "Preto"]
     },
     {
       "id": "handle_06",
@@ -46,7 +46,7 @@
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_06.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_06.glb",
-      "colors": ["Grafite", "Cromado", "Dourado"]
+      "colors": ["Cromado", "Rose Fosco", "Dourado Fosco", "Preto"]
     },
     {
       "id": "handle_07",
@@ -54,7 +54,7 @@
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_07.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_07.glb",
-      "colors": ["Grafite", "Cromado", "Dourado"]
+      "colors": ["Cromado", "Rose Fosco", "Dourado Fosco", "Preto"]
     },
     {
       "id": "handle_08",
@@ -62,7 +62,7 @@
       "type": "door",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/Icons/handle_08.png",
       "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Doors/Handles/GLB/handle_08.glb",
-      "colors": ["Grafite", "Cromado", "Dourado"]
+      "colors": ["Cromado", "Rose Fosco", "Dourado Fosco", "Preto"]
     }
   ]
 }

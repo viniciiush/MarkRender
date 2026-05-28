@@ -5,8 +5,8 @@
       "name": "Branco",
       "type": "color",
       "colorHex": "#FFFFFF",
-      "metallic": 0.0,
-      "smoothness": 0.0,
+      "metallic": 0.3,
+      "smoothness": 0.4,
       "colorImageUrl": "",
       "metallicGlossMapImageUrl": ""
     },
@@ -14,9 +14,9 @@
       "id": "color_02",
       "name": "Preto",
       "type": "color",
-      "colorHex": "#000000",
-      "metallic": 0.0,
-      "smoothness": 0.0,
+      "colorHex": "#222222",
+      "metallic": 0.2,
+      "smoothness": 0.3,
       "colorImageUrl": "",
       "metallicGlossMapImageUrl": ""
     },
@@ -24,19 +24,19 @@
       "id": "color_03",
       "name": "Grafite",
       "type": "color",
-      "colorHex": "#4B4B4B",
-      "metallic": 0.0,
-      "smoothness": 0.0,
+      "colorHex": "#292929",
+      "metallic": 0.2,
+      "smoothness": 0.3,
       "colorImageUrl": "",
       "metallicGlossMapImageUrl": ""
     },
     {
       "id": "color_04",
-      "name": "Cromado",
+      "name": "Aluminio",
       "type": "color",
-      "colorHex": "#C0C0C0",
-      "metallic": 0.9,
-      "smoothness": 0.95,
+      "colorHex": "#B7B7B7",
+      "metallic": 0.8,
+      "smoothness": 0.6,
       "colorImageUrl": "",
       "metallicGlossMapImageUrl": ""
     },
@@ -47,6 +47,86 @@
       "colorHex": "#FFD700",
       "metallic": 0.9,
       "smoothness": 0.95,
+      "colorImageUrl": "",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "color_06",
+      "name": "Argila",
+      "type": "color",
+      "colorHex": "#EEE6D9",
+      "metallic": 0.2,
+      "smoothness": 0.3,
+      "colorImageUrl": "",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "color_07",
+      "name": "Titanium",
+      "type": "color",
+      "colorHex": "#5D5E63",
+      "metallic": 0.2,
+      "smoothness": 0.1,
+      "colorImageUrl": "",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "color_08",
+      "name": "Fendi",
+      "type": "color",
+      "colorHex": "#BCB5B2",
+      "metallic": 0.1,
+      "smoothness": 0.35,
+      "colorImageUrl": "",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "color_08",
+      "name": "Palha",
+      "type": "color",
+      "colorHex": "#F5EADD",
+      "metallic": 0.1,
+      "smoothness": 0.35,
+      "colorImageUrl": "",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "color_08",
+      "name": "Nanquim",
+      "type": "color",
+      "colorHex": "#AFB7B2",
+      "metallic": 0.1,
+      "smoothness": 0.35,
+      "colorImageUrl": "",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "color_08",
+      "name": "Dourado Fosco",
+      "type": "color",
+      "colorHex": "#B9A358",
+      "metallic": 0.6,
+      "smoothness": 0.3,
+      "colorImageUrl": "",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "color_08",
+      "name": "Rose Fosco",
+      "type": "color",
+      "colorHex": "#966A4D",
+      "metallic": 0.9,
+      "smoothness": 0.5,
+      "colorImageUrl": "",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "color_08",
+      "name": "Cromado",
+      "type": "color",
+      "colorHex": "#A4A4A4",
+      "metallic": 0.95,
+      "smoothness": 0.8,
       "colorImageUrl": "",
       "metallicGlossMapImageUrl": ""
     }
