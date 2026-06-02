@@ -97,7 +97,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
-      "colors": ["Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
+      "colors": ["Branco", "Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
     },
     {
       "id": "door_02",
@@ -108,7 +108,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
-      "colors": ["Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
+      "colors": ["Branco", "Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
     },
     {
       "id": "door_03",
@@ -119,7 +119,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
-      "colors": ["Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
+      "colors": ["Branco", "Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
     },
     {
       "id": "door_04",
@@ -130,7 +130,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
-      "colors": ["Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
+      "colors": ["Branco", "Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
     },
     {
       "id": "door_05",
@@ -141,7 +141,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
-      "colors": ["Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
+      "colors": ["Branco", "Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
     },
     {
       "id": "door_06",
@@ -152,7 +152,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
-      "colors": ["Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
+      "colors": ["Branco", "Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
     },
     {
       "id": "door_07",
@@ -163,7 +163,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
-      "colors": ["Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
+      "colors": ["Branco", "Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
     },
     {
       "id": "door_08",
@@ -174,7 +174,7 @@
       "minWidth": 0.8,
       "maxWidth": 1.6,
       "handles": ["handle_01", "handle_02", "handle_03", "handle_04", "handle_05", "handle_06"],
-      "colors": ["Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
+      "colors": ["Branco", "Grafite", "Argila", "Titanium", "Fendi", "Palha", "Nanquim"]
     }
   ]
 }

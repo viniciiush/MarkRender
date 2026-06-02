@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "id": "floor_01",
+      "name": "Mosaico de Pedra",
+      "type": "floor",
+      "category": "AreaExterna",
+      "metallic": 0.0,
+      "smoothness": 0.2,
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/AE_001_Icon.png",
+      "colorImageUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/AE_001.png",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "floor_02",
+      "name": "Piso Mosaico",
+      "type": "floor",
+      "category": "AreaExterna",
+      "metallic": 0.0,
+      "smoothness": 0.2,
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/AE_002_icon.png",
+      "colorImageUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/AE_002.png",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "floor_03",
+      "name": "Ladrilho",
+      "type": "floor",
+      "category": "AreaExterna",
+      "metallic": 0.0,
+      "smoothness": 0.8,
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/AE_003_icon.png",
+      "colorImageUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/AE_003.png",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "floor_04",
+      "name": "Mosaico Pedra Natural",
+      "type": "floor",
+      "category": "AreaExterna",
+      "metallic": 0.0,
+      "smoothness": 0.2,
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/AE_004_icon.png",
+      "colorImageUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/AE_004.png",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "floor_05",
+      "name": "Pedra Herringbone",
+      "type": "floor",
+      "category": "AreaExterna",
+      "metallic": 0.0,
+      "smoothness": 0.2,
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/AE_005_icon.png",
+      "colorImageUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/AE_005.png",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "floor_06",
+      "name": "Piso Clean Cinza",
+      "type": "floor",
+      "category": "Ceramico",
+      "metallic": 0.0,
+      "smoothness": 0.8,
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/CE_001_icon.png",
+      "colorImageUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/CE_001.png",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "floor_07",
+      "name": "Piso Pedra Cinza",
+      "type": "floor",
+      "category": "Ceramico",
+      "metallic": 0.0,
+      "smoothness": 0.2,
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/CE_002_icon.png",
+      "colorImageUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/CE_002.png",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "floor_08",
+      "name": "Laminado Chevron",
+      "type": "floor",
+      "category": "Vinilico",
+      "metallic": 0.0,
+      "smoothness": 0.8,
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/VI_001_icon.png",
+      "colorImageUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/VI_001.png",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "floor_09",
+      "name": "Laminado Imbuia",
+      "type": "floor",
+      "category": "Vinilico",
+      "metallic": 0.0,
+      "smoothness": 0.8,
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/VI_002_icon.png",
+      "colorImageUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/VI_002.png",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "floor_10",
+      "name": "Laminado Cerejeira",
+      "type": "floor",
+      "category": "Vinilico",
+      "metallic": 0.0,
+      "smoothness": 0.8,
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/VI_003_icon.png",
+      "colorImageUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/VI_003.png",
+      "metallicGlossMapImageUrl": ""
+    },
+    {
+      "id": "floor_10",
+      "name": "Laminado Natural",
+      "type": "floor",
+      "category": "Vinilico",
+      "metallic": 0.0,
+      "smoothness": 0.8,
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/VI_004_icon.png",
+      "colorImageUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Textures/AreaExterna/VI_004.png",
+      "metallicGlossMapImageUrl": ""
+    }
+  ]
+}
