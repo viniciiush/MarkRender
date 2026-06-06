@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "board_01",
+      "name": "Pivotante",
+      "type": "board",
+      "positioning": "base",
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/Icons/board_01.png",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/GLB/board_01.glb",
+      "colors": ["Branco", "Preto", "Palha"]
+    },
+    {
+      "id": "board_02",
+      "name": "Pivotante",
+      "type": "board",
+      "positioning": "base",
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/Icons/board_02.png",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/GLB/board_02.glb",
+      "colors": ["Branco", "Preto", "Palha"]
+    },
+    {
+      "id": "board_03",
+      "name": "Pivotante",
+      "type": "board",
+      "positioning": "base",
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/Icons/board_03.png",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/GLB/board_03.glb",
+      "colors": ["Branco", "Preto", "Palha"]
+    },
+    {
+      "id": "board_04",
+      "name": "Pivotante",
+      "type": "board",
+      "positioning": "base",
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/Icons/board_04.png",
+      "modelUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/GLB/board_04.glb",
+      "colors": ["Branco", "Preto", "Palha"]
+    }
+  ]
+}
