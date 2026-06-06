@@ -18,7 +18,7 @@
       "category": "Externa",
       "metallic": 0.0,
       "smoothness": 0.2,
-      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/AE_002_icon.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/AE_002_Icon.png",
       "colorImageUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/AE_002.png",
       "metallicGlossMapImageUrl": ""
     },
@@ -29,7 +29,7 @@
       "category": "Externa",
       "metallic": 0.0,
       "smoothness": 0.8,
-      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/AE_003_icon.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/AE_003_Icon.png",
       "colorImageUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/AE_003.png",
       "metallicGlossMapImageUrl": ""
     },
@@ -40,7 +40,7 @@
       "category": "Externa",
       "metallic": 0.0,
       "smoothness": 0.2,
-      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/AE_004_icon.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/AE_004_Icon.png",
       "colorImageUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/AE_004.png",
       "metallicGlossMapImageUrl": ""
     },
@@ -51,7 +51,7 @@
       "category": "Externa",
       "metallic": 0.0,
       "smoothness": 0.2,
-      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/AE_005_icon.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/AE_005_Icon.png",
       "colorImageUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/AE_005.png",
       "metallicGlossMapImageUrl": ""
     },
@@ -62,7 +62,7 @@
       "category": "Ceramico",
       "metallic": 0.0,
       "smoothness": 0.8,
-      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/CE_001_icon.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/CE_001_Icon.png",
       "colorImageUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/CE_001.png",
       "metallicGlossMapImageUrl": ""
     },
@@ -73,7 +73,7 @@
       "category": "Ceramico",
       "metallic": 0.0,
       "smoothness": 0.2,
-      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/CE_002_icon.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/CE_002_Icon.png",
       "colorImageUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/CE_002.png",
       "metallicGlossMapImageUrl": ""
     },
@@ -84,7 +84,7 @@
       "category": "Vinilico",
       "metallic": 0.0,
       "smoothness": 0.8,
-      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/VI_001_icon.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/VI_001_Icon.png",
       "colorImageUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/VI_001.png",
       "metallicGlossMapImageUrl": ""
     },
@@ -95,7 +95,7 @@
       "category": "Vinilico",
       "metallic": 0.0,
       "smoothness": 0.8,
-      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/VI_002_icon.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/VI_002_Icon.png",
       "colorImageUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/VI_002.png",
       "metallicGlossMapImageUrl": ""
     },
@@ -106,7 +106,7 @@
       "category": "Vinilico",
       "metallic": 0.0,
       "smoothness": 0.8,
-      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/VI_003_icon.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/VI_003_Icon.png",
       "colorImageUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/VI_003.png",
       "metallicGlossMapImageUrl": ""
     },
@@ -117,7 +117,7 @@
       "category": "Vinilico",
       "metallic": 0.0,
       "smoothness": 0.8,
-      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/VI_004_icon.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/VI_004_Icon.png",
       "colorImageUrl": "https://raw.githubusercontent.com/viniciiush/MarkRender/main/Data/Models/Textures/VI_004.png",
       "metallicGlossMapImageUrl": ""
     }
