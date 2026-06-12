@@ -4,7 +4,7 @@
       "id": "board_00",
       "name": "Nenhum",
       "type": "board",
-      "positioning": "",
+      "positioning": "base",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/Icons/board_00.png",
       "modelUrl": "",
       "colors": []
@@ -12,8 +12,8 @@
     {
       "id": "board_00",
       "name": "Nenhum",
-      "type": "ceiling",
-      "positioning": "",
+      "type": "board",
+      "positioning": "ceiling",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/Icons/board_00.png",
       "modelUrl": "",
       "colors": []
