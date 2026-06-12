@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "id": "board_00",
+      "name": "Nenhum",
+      "type": "board",
+      "positioning": "",
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/Icons/board_00.png",
+      "modelUrl": "",
+      "colors": []
+    },
+    {
       "id": "board_01",
-      "name": "test",
+      "name": "Degrau Triplo",
       "type": "board",
       "positioning": "ceiling",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/Icons/board_01.png",
@@ -11,7 +20,7 @@
     },
     {
       "id": "board_02",
-      "name": "Pivotante",
+      "name": "Degrau Duplo",
       "type": "board",
       "positioning": "ceiling",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/Icons/board_02.png",
@@ -20,7 +29,7 @@
     },
     {
       "id": "board_03",
-      "name": "Pivotante",
+      "name": "Colonial",
       "type": "board",
       "positioning": "ceiling",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/Icons/board_03.png",
@@ -29,7 +38,7 @@
     },
     {
       "id": "board_04",
-      "name": "Pivotante",
+      "name": "Friso Unico",
       "type": "board",
       "positioning": "base",
       "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/Icons/board_04.png",
