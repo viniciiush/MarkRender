@@ -10,6 +10,15 @@
       "colors": []
     },
     {
+      "id": "board_00",
+      "name": "Nenhum",
+      "type": "ceiling",
+      "positioning": "",
+      "thumbnailUrl": "https://github.com/viniciiush/MarkRender/raw/refs/heads/main/Data/Models/Boards/Icons/board_00.png",
+      "modelUrl": "",
+      "colors": []
+    },
+    {
       "id": "board_01",
       "name": "Degrau Triplo",
       "type": "board",
