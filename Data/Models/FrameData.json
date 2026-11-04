@@ -9,7 +9,17 @@
       "minWidth": 0.3,
       "maxWidth": 0.6,
       "handles": [""],
-      "colors": ["Branco", "Preto", "Aluminio"]
+      "colors": ["Branco", "Preto", "Aluminio"],
+      "openingMotion": "hinge",
+      "movingParts": [
+        {
+          "object": "Leaf_Movable_01",
+          "hingeHelper": "HingeHelper_01",
+          "axis": "Y",
+          "maxAngle": 90,
+          "direction": 1
+        }
+      ]
     },
     {
       "id": "window_02",
@@ -20,7 +30,17 @@
       "minWidth": 0.4,
       "maxWidth": 1.0,
       "handles": [""],
-      "colors": ["Branco", "Preto", "Aluminio"]
+      "colors": ["Branco", "Preto", "Aluminio"],
+      "openingMotion": "hinge",
+      "movingParts": [
+        {
+          "object": "Leaf_Movable_01",
+          "hingeHelper": "HingeHelper_01",
+          "axis": "X",
+          "maxAngle": 45,
+          "direction": 1
+        }
+      ]
     },
     {
       "id": "window_03",
@@ -31,7 +51,15 @@
       "minWidth": 1.0,
       "maxWidth": 1.6,
       "handles": [""],
-      "colors": ["Branco", "Preto", "Aluminio"]
+      "colors": ["Branco", "Preto", "Aluminio"],
+      "openingMotion": "slide",
+      "movingParts": [
+        {
+          "object": "Leaf_Movable_01",
+          "startHelper": "SlideStart_01",
+          "endHelper": "SlideEnd_01"
+        }
+      ]
     },
     {
       "id": "window_04",
@@ -42,7 +70,20 @@
       "minWidth": 1.6,
       "maxWidth": 2.6,
       "handles": [""],
-      "colors": ["Branco", "Preto", "Aluminio"]
+      "colors": ["Branco", "Preto", "Aluminio"],
+      "openingMotion": "slide",
+      "movingParts": [
+        {
+          "object": "Leaf_Movable_01",
+          "startHelper": "SlideStart_01",
+          "endHelper": "SlideEnd_01"
+        },
+        {
+          "object": "Leaf_Movable_02",
+          "startHelper": "SlideStart_02",
+          "endHelper": "SlideEnd_02"
+        }
+      ]
     },
     {
       "id": "window_05",
